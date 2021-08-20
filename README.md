@@ -11,13 +11,7 @@ After fetching the repository, do
     source envset.sh
 
 ### Analyzing
-After installing and locating EdgeEffect_NUM_1.root
-
-|                             EdgeEffect_NUM_2.root
-                              
-|                             EdgeEffect_NUM_3.root
-                              
-|                             EdgeEffect_NUM_4.root in install dir, do
+After installing and locating EdgeEffect_NUM_<1~4>.root in install dir, do
 
     cd install
     ./bin/analysis <1~4>
