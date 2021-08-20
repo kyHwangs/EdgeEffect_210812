@@ -13,11 +13,11 @@ After fetching the repository, do
 ### Analyzing
 After installing and locating EdgeEffect_NUM_1.root
 
-                              EdgeEffect_NUM_2.root
+|                             EdgeEffect_NUM_2.root
                               
-                              EdgeEffect_NUM_3.root
+|                             EdgeEffect_NUM_3.root
                               
-                              EdgeEffect_NUM_4.root in install dir, do
+|                             EdgeEffect_NUM_4.root in install dir, do
 
     cd install
     ./bin/analysis <1~4>
